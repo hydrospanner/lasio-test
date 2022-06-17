@@ -1,4 +1,4 @@
 lasio==0.13
 matplotlib==2.0.0
-numpy==1.11.0
+numpy==1.21.0
 pandas==0.18.0
